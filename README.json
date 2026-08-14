@@ -141,20 +141,6 @@
         },
         {
           "node_type": "item",
-          "title": "reporter",
-          "description": "This tool stores the exception information into the database and provides a developer-friendly web interface to view the exception information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-01-25T08:58:02Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "reporter",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
           "title": "auth-captcha",
           "description": "Sliding captcha for laravel-admin auth",
           "children": [],
@@ -165,6 +151,20 @@
             "owner": "asundust",
             "repo": "auth-captcha",
             "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reporter",
+          "description": "This tool stores the exception information into the database and provides a developer-friendly web interface to view the exception information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-01-25T08:58:02Z",
+            "owner": "laravel-admin-extensions",
+            "repo": "reporter",
+            "stars": 59
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2019-01-23T02:16:41Z",
             "owner": "laravel-admin-extensions",
             "repo": "chartjs",
-            "stars": 101
+            "stars": 102
           }
         },
         {
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T05:57:41.737Z",
+    "last_updated": "2026-08-14T05:55:39.945Z",
     "original_repository": "jxlwqq/awesome-laravel-admin",
     "original_repository_sha": "46fc3d520078de0a7713445cfd9e0220c7d1b929",
     "enhanced_repository": "enhansome/enhansome-laravel-admin",

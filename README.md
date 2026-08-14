@@ -27,7 +27,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 ## Essentials
 
-* [Laravel-admin Repo](https://github.com/z-song/laravel-admin) ⭐ 11,147 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
+* [Laravel-admin Repo](https://github.com/z-song/laravel-admin) ⭐ 11,146 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
 * [Laravel-admin Website](http://laravel-admin.org)
 * [Laravel-admin Docs](http://laravel-admin.org/docs)
 * [Laravel-admin Demo](http://demo.laravel-admin.org)
@@ -45,8 +45,8 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [scheduling](https://github.com/laravel-admin-extensions/scheduling) ⭐ 93 | 🐛 10 | 🌐 PHP | 📅 2021-10-11 - Scheduling task manager for laravel-admin
 * [iframe-tabs](https://github.com/ichynul/iframe-tabs) ⚠️ Archived - laravel-admin iframe-tabs
 * [backup](https://github.com/laravel-admin-extensions/backup) ⭐ 74 | 🐛 11 | 🌐 PHP | 📅 2020-11-07 - An admin interface for managing backups
-* [reporter](https://github.com/laravel-admin-extensions/reporter) ⭐ 60 | 🐛 9 | 🌐 PHP | 📅 2022-01-25 - This tool stores the exception information into the database and provides a developer-friendly web interface to view the exception information.
 * [auth-captcha](https://github.com/asundust/auth-captcha) ⭐ 60 | 🐛 1 | 🌐 PHP | 📅 2023-09-04 - Sliding captcha for laravel-admin auth
+* [reporter](https://github.com/laravel-admin-extensions/reporter) ⭐ 59 | 🐛 9 | 🌐 PHP | 📅 2022-01-25 - This tool stores the exception information into the database and provides a developer-friendly web interface to view the exception information.
 * [api-tester](https://github.com/laravel-admin-extensions/api-tester) ⭐ 55 | 🐛 9 | 🌐 Blade | 📅 2021-05-05 - API tester for laravel-admin
 * [env-manager](https://github.com/laravel-admin-extensions/env-manager) ⭐ 36 | 🐛 3 | 🌐 PHP | 📅 2018-10-26 - Env Manager for Laravel-admin
 * [login-captcha](https://github.com/xiaoxuan6/login-captcha) ⭐ 36 | 🐛 1 | 🌐 PHP | 📅 2021-05-10 - laravel-admin login-captcha
@@ -75,7 +75,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 ### View
 
-* [chartjs](https://github.com/laravel-admin-extensions/chartjs) ⭐ 101 | 🐛 4 | 🌐 PHP | 📅 2019-01-23 - Use Chartjs in laravel-admin
+* [chartjs](https://github.com/laravel-admin-extensions/chartjs) ⭐ 102 | 🐛 4 | 🌐 PHP | 📅 2019-01-23 - Use Chartjs in laravel-admin
 * [watermark](https://github.com/laravel-admin-extensions/watermark) ⭐ 10 | 🐛 1 | 🌐 PHP | 📅 2021-02-25 - Add text watermark with canvas
 * [echarts](https://github.com/laravel-admin-extensions/echarts) ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2019-06-27 - Use Echarts in laravel-admin
 
@@ -191,8 +191,8 @@ Add yours to the list, make a PR!
 
 Sites Running with Laravel-admin:
 
-<https://github.com/z-song/laravel-admin/issues/3043> ⭐ 11,147 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
+<https://github.com/z-song/laravel-admin/issues/3043> ⭐ 11,146 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
