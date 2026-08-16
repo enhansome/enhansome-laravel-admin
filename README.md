@@ -27,7 +27,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 ## Essentials
 
-* [Laravel-admin Repo](https://github.com/z-song/laravel-admin) ⭐ 11,146 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
+* [Laravel-admin Repo](https://github.com/z-song/laravel-admin) ⭐ 11,147 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
 * [Laravel-admin Website](http://laravel-admin.org)
 * [Laravel-admin Docs](http://laravel-admin.org/docs)
 * [Laravel-admin Demo](http://demo.laravel-admin.org)
@@ -191,8 +191,8 @@ Add yours to the list, make a PR!
 
 Sites Running with Laravel-admin:
 
-<https://github.com/z-song/laravel-admin/issues/3043> ⭐ 11,146 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
+<https://github.com/z-song/laravel-admin/issues/3043> ⭐ 11,147 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
