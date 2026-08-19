@@ -1,1291 +1,1369 @@
 {
   "items": [
     {
-      "description": "If you created or found something that make Laravel-admin more awesome, please submit a PR and add it to the list.",
-      "items": [],
-      "title": "Contribution"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wechat",
+              "description": "Wechat Manager with EasyWeChat",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238951524,
+                "language": "PHP",
+                "last_commit": "2022-02-10T06:58:30Z",
+                "owner": "Hanson",
+                "repo": "laravel-admin-wechat",
+                "stars": 241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "helpers",
+              "description": "Several tools to help you in development, providing , , and four tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97900966,
+                "language": "PHP",
+                "last_commit": "2022-04-10T22:10:41Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "helpers",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "media-manager",
+              "description": "Provides a web interface to manage local files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98843192,
+                "language": "Blade",
+                "last_commit": "2023-07-14T07:17:44Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "media-manager",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "log-viewer",
+              "description": "Log viewer for laravel",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98625172,
+                "language": "PHP",
+                "last_commit": "2022-02-20T12:48:50Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "log-viewer",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redis-manager",
+              "description": "Redis manager for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129332701,
+                "language": "HTML",
+                "last_commit": "2021-04-12T00:45:38Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "redis-manager",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "config",
+              "description": "Config manager for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97900916,
+                "language": "PHP",
+                "last_commit": "2021-06-16T09:09:06Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "config",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scheduling",
+              "description": "Scheduling task manager for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99676857,
+                "language": "PHP",
+                "last_commit": "2021-10-11T09:17:56Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "scheduling",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iframe-tabs",
+              "description": "laravel-admin iframe-tabs",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 171090763,
+                "language": "PHP",
+                "last_commit": "2021-01-20T11:26:49Z",
+                "owner": "ichynul",
+                "repo": "iframe-tabs",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "backup",
+              "description": "An admin interface for managing backups",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99782624,
+                "language": "PHP",
+                "last_commit": "2020-11-07T01:40:07Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "backup",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "auth-captcha",
+              "description": "Sliding captcha for laravel-admin auth",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193665404,
+                "language": "PHP",
+                "last_commit": "2023-09-04T14:12:41Z",
+                "owner": "asundust",
+                "repo": "auth-captcha",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reporter",
+              "description": "This tool stores the exception information into the database and provides a developer-friendly web interface to view the exception information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97900053,
+                "language": "PHP",
+                "last_commit": "2022-01-25T08:58:02Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "reporter",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "api-tester",
+              "description": "API tester for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99563385,
+                "language": "Blade",
+                "last_commit": "2021-05-05T02:52:55Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "api-tester",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "env-manager",
+              "description": "Env Manager for Laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154815586,
+                "language": "PHP",
+                "last_commit": "2018-10-26T13:56:30Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "env-manager",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "login-captcha",
+              "description": "laravel-admin login-captcha",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163374018,
+                "language": "PHP",
+                "last_commit": "2021-05-10T06:46:51Z",
+                "owner": "xiaoxuan6",
+                "repo": "login-captcha",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "id-validator",
+              "description": "Chinese Mainland Personal ID Card Validation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156237877,
+                "language": "PHP",
+                "last_commit": "2019-12-11T03:20:34Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "id-validator",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alioss-form",
+              "description": "alioss-upload extension for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162805934,
+                "language": "JavaScript",
+                "last_commit": "2019-04-01T03:30:36Z",
+                "owner": "wyzheng1997",
+                "repo": "alioss-form",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crontab",
+              "description": "Crontab extension for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176664263,
+                "language": "PHP",
+                "last_commit": "2020-10-20T06:43:31Z",
+                "owner": "ArrowJustDoIt",
+                "repo": "crontab",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phpinfo",
+              "description": "Outputs information about PHP's configuration in laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147626195,
+                "language": "PHP",
+                "last_commit": "2018-10-12T10:01:50Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "phpinfo",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "composer-viewer",
+              "description": "A web interface of composer packages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152376760,
+                "language": "PHP",
+                "last_commit": "2021-12-06T08:18:07Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "composer-viewer",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "multi-language",
+              "description": "laravel-admin Multi Language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195174541,
+                "language": "Blade",
+                "last_commit": "2022-10-19T14:23:10Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "multi-language",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lock-screen",
+              "description": "Add a lock screen page to laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157569308,
+                "language": "PHP",
+                "last_commit": "2018-11-14T15:49:50Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "lock-screen",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sms-register",
+              "description": "laravel admin sms register",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210257725,
+                "language": "PHP",
+                "last_commit": "2020-02-29T14:59:34Z",
+                "owner": "Hanson",
+                "repo": "laravel-admin-register",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "messages",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97901025,
+                "language": "PHP",
+                "last_commit": "2019-11-18T12:20:15Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "messages",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "admin-config",
+              "description": "Manage your database configuration as profiles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176232498,
+                "language": "PHP",
+                "last_commit": "2019-10-09T08:02:09Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "admin-config",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nocaptcha",
+              "description": "nocaptcha implements for laravel-admin when login",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179709246,
+                "language": "PHP",
+                "last_commit": "2019-09-09T06:44:57Z",
+                "owner": "xiaohuilam",
+                "repo": "laravel-admin-nocaptcha",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "file-browser",
+              "description": "A Simple File Browser Extension For Laravel-Admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156500082,
+                "language": "HTML",
+                "last_commit": "2019-02-01T04:14:59Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "file-browser",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "auth-attempts",
+              "description": "Add captcha and login attempts for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160782786,
+                "language": "HTML",
+                "last_commit": "2022-09-29T09:40:27Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "auth-attempts",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "translation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98843346,
+                "language": "PHP",
+                "last_commit": "2019-11-22T19:33:25Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "translation",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "file-manager",
+              "description": "File manager for Cloud Storage",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178422460,
+                "language": "HTML",
+                "last_commit": "2019-03-30T12:41:09Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "file-manager",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "grid-exporter",
+              "description": "export grid data for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181294134,
+                "language": "PHP",
+                "last_commit": "2019-04-17T05:38:01Z",
+                "owner": "xiaomlove",
+                "repo": "grid-exporter",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "data-dictionary",
+              "description": "A simple Mysql data dictionary tool that can be used to view and export table structures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175777945,
+                "language": "HTML",
+                "last_commit": "2019-09-07T01:23:01Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "data-dictionary",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wechat",
+              "description": "Manager tool of WeChat Official Accounts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162951701,
+                "language": "PHP",
+                "last_commit": "2018-12-27T01:34:28Z",
+                "owner": "sfcity2018",
+                "repo": "laravel-admin-ext-wechat",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "login-geetest",
+              "description": "geetest login captcha for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175796355,
+                "language": "PHP",
+                "last_commit": "2022-03-27T13:22:05Z",
+                "owner": "xiaoxuan6",
+                "repo": "login-geetest",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "screenfull",
+              "description": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167941234,
+                "language": "PHP",
+                "last_commit": "2021-07-23T09:07:26Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "screenfull",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deploy",
+              "description": "Deploy extension for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143757415,
+                "language": "PHP",
+                "last_commit": "2018-08-13T17:02:17Z",
+                "owner": "luischavez",
+                "repo": "laravel-admin-ext-deploy",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "payjs",
+              "description": "pay for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307926332,
+                "language": "PHP",
+                "last_commit": "2020-10-28T13:12:57Z",
+                "owner": "dedemao",
+                "repo": "laravel-admin-payjs",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tool"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "chartjs",
+              "description": "Use Chartjs in laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148755035,
+                "language": "PHP",
+                "last_commit": "2019-01-23T02:16:41Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "chartjs",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "watermark",
+              "description": "Add text watermark with canvas",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274097199,
+                "language": "PHP",
+                "last_commit": "2021-02-25T08:28:28Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "watermark",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "echarts",
+              "description": "Use Echarts in laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194071024,
+                "language": "PHP",
+                "last_commit": "2019-06-27T10:43:42Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "echarts",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "View"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "json-editor",
+                  "description": "JSON Editor for Laravel-admin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148503929,
+                    "language": "PHP",
+                    "last_commit": "2021-07-22T05:18:53Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "json-editor",
+                    "stars": 31
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "php-editor",
+                  "description": "PHP editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148344174,
+                    "language": "PHP",
+                    "last_commit": "2018-09-23T16:13:33Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "php-editor",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "python-editor",
+                  "description": "Python editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148344301,
+                    "language": "PHP",
+                    "last_commit": "2018-09-23T16:14:45Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "python-editor",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "js-editor",
+                  "description": "JavaScript editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148344246,
+                    "language": "PHP",
+                    "last_commit": "2018-09-23T16:12:32Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "js-editor",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "clike-editor",
+                  "description": "C-lick language editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148348267,
+                    "language": "PHP",
+                    "last_commit": "2018-09-12T05:16:52Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "clike-editor",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "css-editor",
+                  "description": "CSS editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148424767,
+                    "language": "PHP",
+                    "last_commit": "2018-09-23T16:11:29Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "css-editor",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Code Editor"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "UEditor",
+                  "description": "A WYSIWYG editor by Baidu",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 155031900,
+                    "language": "PHP",
+                    "last_commit": "2022-03-15T06:07:04Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "UEditor",
+                    "stars": 62
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wangEditorV3",
+                  "description": "A lightweight WYSIWYG editor v3",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147275808,
+                    "language": "JavaScript",
+                    "last_commit": "2021-04-08T10:03:33Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "wangEditor",
+                    "stars": 59
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "summernote",
+                  "description": "Super Simple WYSIWYG editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147464045,
+                    "language": "PHP",
+                    "last_commit": "2023-12-28T07:31:25Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "summernote",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ckeditor",
+                  "description": "A battle-tested WYSIWYG HTML editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 149326547,
+                    "language": "JavaScript",
+                    "last_commit": "2020-09-28T06:17:40Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "ckeditor",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Quill",
+                  "description": "A modern WYSIWYG editor built for compatibility and extensibility",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 158495072,
+                    "language": "CSS",
+                    "last_commit": "2021-12-15T10:50:15Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "quill",
+                    "stars": 24
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wangEditorV4",
+                  "description": "A lightweight WYSIWYG editor v4",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 386986630,
+                    "language": "JavaScript",
+                    "last_commit": "2022-07-30T15:28:20Z",
+                    "owner": "jonexyz",
+                    "repo": "wang-editor-v4",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "simditor",
+                  "description": "An Easy and Fast WYSIWYG Editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 149278453,
+                    "language": "JavaScript",
+                    "last_commit": "2020-11-20T05:28:09Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "simditor",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tinymce",
+                  "description": "TinyMCE: The Most Advanced WYSIWYG HTML Editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 246598804,
+                    "language": "JavaScript",
+                    "last_commit": "2020-04-13T14:12:57Z",
+                    "owner": "super-eggs",
+                    "repo": "tinymce",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "kindeditor",
+                  "description": "KindEditor is a lightweight, web based WYSIWYG HTML editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 187587321,
+                    "language": "PHP",
+                    "last_commit": "2020-04-07T03:17:15Z",
+                    "owner": "youyingxiang",
+                    "repo": "kindeditor",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lodpod-editor",
+                  "description": "Lodpod print template visual editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 195665502,
+                    "language": "JavaScript",
+                    "last_commit": "2019-07-24T07:08:51Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "lodpod-editor",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wangEditorV2",
+                  "description": "A lightweight WYSIWYG editor v2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 160295719,
+                    "language": "PHP",
+                    "last_commit": "2018-12-20T10:39:57Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "wangEditor2",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CKEditor5",
+                  "description": "Modern JavaScript rich text editor with a modular architecture",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 232092657,
+                    "language": "CSS",
+                    "last_commit": "2020-04-22T15:58:29Z",
+                    "owner": "ghost-die",
+                    "repo": "ckeditor",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Neditor",
+                  "description": "A modern WYSIWYG editor based on UEditor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 173665661,
+                    "language": "JavaScript",
+                    "last_commit": "2019-07-04T04:34:30Z",
+                    "owner": "ssiapp",
+                    "repo": "laravel-admin-ext-neditor",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "WYSIWYG Editor"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "simplemde",
+                  "description": "A simple, beautiful, and embeddable JavaScript Markdown editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147620302,
+                    "language": "PHP",
+                    "last_commit": "2018-12-06T02:52:36Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "simplemde",
+                    "stars": 33
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EditorMD",
+                  "description": "The open source embeddable online markdown editor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 168509072,
+                    "language": "JavaScript",
+                    "last_commit": "2020-11-03T07:23:02Z",
+                    "owner": "ShermanTsang",
+                    "repo": "laravel-admin-ext-editormd",
+                    "stars": 16
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Markdown Editor"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "china-distpicker",
+                  "description": "Distpicker extension for laravel-admin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147521597,
+                    "language": "PHP",
+                    "last_commit": "2021-10-11T10:08:17Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "china-distpicker",
+                    "stars": 133
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FieldInteraction",
+                  "description": "Field Interaction in laravel-admin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162668393,
+                    "language": "PHP",
+                    "last_commit": "2020-01-03T11:16:49Z",
+                    "owner": "zuweie",
+                    "repo": "FieldInteraction",
+                    "stars": 106
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "large-file-upload",
+                  "description": "Upload big files for Laravel-admin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 155147588,
+                    "language": "JavaScript",
+                    "last_commit": "2022-09-14T02:26:13Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "large-file-upload",
+                    "stars": 77
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cropper",
+                  "description": "A simple jQuery image cropping plugin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 150934727,
+                    "language": "PHP",
+                    "last_commit": "2020-12-26T19:53:05Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "cropper",
+                    "stars": 72
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "latlong",
+                  "description": "A latitude & longitude selector",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 164453183,
+                    "language": "PHP",
+                    "last_commit": "2021-12-07T02:05:04Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "latlong",
+                    "stars": 70
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "select2",
+                  "description": "Laravel-Admin select2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 178165826,
+                    "language": "PHP",
+                    "last_commit": "2021-08-08T13:23:15Z",
+                    "owner": "xiaohuilam",
+                    "repo": "laravel-admin-select2",
+                    "stars": 42
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "daterangepicker",
+                  "description": "Integrates daterangepicker into laravel-admin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148675190,
+                    "language": "JavaScript",
+                    "last_commit": "2018-09-13T17:51:28Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "daterangepicker",
+                    "stars": 33
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "leaflet",
+                  "description": "OpenStreetMap for laravel-admin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 154324728,
+                    "language": "PHP",
+                    "last_commit": "2021-09-29T06:15:44Z",
+                    "owner": "bavix",
+                    "repo": "laravel-admin-leaflet",
+                    "stars": 28
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "row-table",
+                  "description": "laravel-admin row-table",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 171375376,
+                    "language": "PHP",
+                    "last_commit": "2020-06-08T12:20:29Z",
+                    "owner": "ichynul",
+                    "repo": "row-table",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "star-rating",
+                  "description": "Star Rating extension for laravel-admin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148460623,
+                    "language": "JavaScript",
+                    "last_commit": "2019-04-09T01:55:50Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "star-rating",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "qiniu",
+                  "description": "Upload files using qiniu Storage",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 239282734,
+                    "language": "PHP",
+                    "last_commit": "2020-03-08T03:32:00Z",
+                    "owner": "Hanson",
+                    "repo": "laravel-admin-qiniu",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tencent-map",
+                  "description": "Tencent Map with search",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 172848906,
+                    "language": "PHP",
+                    "last_commit": "2020-10-29T02:46:23Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "tencent-map",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tagsinput",
+                  "description": "Integrates Bootstrap Tags Input into laravel-admin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 177163266,
+                    "language": "PHP",
+                    "last_commit": "2019-11-26T11:55:40Z",
+                    "owner": "namet117",
+                    "repo": "laravel-admin-tagsinput",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "select-tree",
+                  "description": "select plugin for Model-tree",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 181405116,
+                    "language": "HTML",
+                    "last_commit": "2019-04-15T03:53:45Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "select-tree",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "typeahead",
+                  "description": "A fast and fully-featured autocomplete library",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 150459028,
+                    "language": "PHP",
+                    "last_commit": "2018-09-26T16:46:28Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "typeahead",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "select2-bootstrap-theme",
+                  "description": "select2-bootstrap-theme stylesheet extension",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 179443893,
+                    "language": "PHP",
+                    "last_commit": "2019-06-16T17:06:31Z",
+                    "owner": "xiaohuilam",
+                    "repo": "laravel-admin-select2-bootstrap-theme",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Others"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Field"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "grid-lightbox",
+              "description": "Turn your grid into a lightbox & gallery",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148515007,
+                "language": "CSS",
+                "last_commit": "2019-10-20T21:42:18Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "grid-lightbox",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "grid-sortable",
+              "description": "This extension can help you sort by dragging the rows of the data list",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193453849,
+                "language": "PHP",
+                "last_commit": "2023-02-10T09:05:05Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "grid-sortable",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "media-player",
+              "description": "Play audio/videos in laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157417328,
+                "language": "JavaScript",
+                "last_commit": "2020-03-19T03:41:40Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "media-player",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sparkline",
+              "description": "Generate sparkline charts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150295905,
+                "language": "PHP",
+                "last_commit": "2018-09-25T17:13:51Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "sparkline",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "column-relation",
+              "description": "column-relation extension for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 240851453,
+                "language": "PHP",
+                "last_commit": "2023-01-05T07:59:05Z",
+                "owner": "zhaiduting",
+                "repo": "column-relation",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "timestamp-between-filter",
+              "description": "Timestamp Between Filter",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241920180,
+                "language": "PHP",
+                "last_commit": "2020-03-28T05:50:57Z",
+                "owner": "wuwx",
+                "repo": "laravel-admin-timestamp-between",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "custom-actions-button",
+              "description": "Custom Actions Button",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 196005846,
+                "language": "PHP",
+                "last_commit": "2019-08-28T17:44:32Z",
+                "owner": "nim4n136",
+                "repo": "custom-actions-button",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Grid"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "material-ui",
+              "description": "Material-UI is a Material Design extension, using Bootstrap Material Design",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148271631,
+                "language": "PHP",
+                "last_commit": "2020-08-17T08:00:36Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "material-ui",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rainbow",
+              "description": "A skin for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237896761,
+                "language": "PHP",
+                "last_commit": "2020-02-06T14:18:01Z",
+                "owner": "Hanson",
+                "repo": "rainbow",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adminlte3",
+              "description": "AdminLTE3 extension for laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170082018,
+                "language": "JavaScript",
+                "last_commit": "2019-02-11T09:15:55Z",
+                "owner": "hipig",
+                "repo": "adminlte3",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UI"
+        }
+      ],
       "title": "Extensions"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wechat",
-          "description": "Wechat Manager with EasyWeChat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-02-10T06:58:30Z",
-            "owner": "Hanson",
-            "repo": "laravel-admin-wechat",
-            "stars": 241
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "helpers",
-          "description": "Several tools to help you in development, providing , , and four tools",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-04-10T22:10:41Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "helpers",
-            "stars": 136
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "media-manager",
-          "description": "Provides a web interface to manage local files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Blade",
-            "last_commit": "2023-07-14T07:17:44Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "media-manager",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "log-viewer",
-          "description": "Log viewer for laravel",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-02-20T12:48:50Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "log-viewer",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "redis-manager",
-          "description": "Redis manager for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-04-12T00:45:38Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "redis-manager",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "config",
-          "description": "Config manager for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-06-16T09:09:06Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "config",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scheduling",
-          "description": "Scheduling task manager for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-10-11T09:17:56Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "scheduling",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iframe-tabs",
-          "description": "laravel-admin iframe-tabs",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2021-01-20T11:26:49Z",
-            "owner": "ichynul",
-            "repo": "iframe-tabs",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "backup",
-          "description": "An admin interface for managing backups",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-11-07T01:40:07Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "backup",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "auth-captcha",
-          "description": "Sliding captcha for laravel-admin auth",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-09-04T14:12:41Z",
-            "owner": "asundust",
-            "repo": "auth-captcha",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reporter",
-          "description": "This tool stores the exception information into the database and provides a developer-friendly web interface to view the exception information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-01-25T08:58:02Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "reporter",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "api-tester",
-          "description": "API tester for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Blade",
-            "last_commit": "2021-05-05T02:52:55Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "api-tester",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "env-manager",
-          "description": "Env Manager for Laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-10-26T13:56:30Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "env-manager",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "login-captcha",
-          "description": "laravel-admin login-captcha",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-05-10T06:46:51Z",
-            "owner": "xiaoxuan6",
-            "repo": "login-captcha",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "id-validator",
-          "description": "Chinese Mainland Personal ID Card Validation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-12-11T03:20:34Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "id-validator",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "alioss-form",
-          "description": "alioss-upload extension for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-04-01T03:30:36Z",
-            "owner": "wyzheng1997",
-            "repo": "alioss-form",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crontab",
-          "description": "Crontab extension for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-10-20T06:43:31Z",
-            "owner": "ArrowJustDoIt",
-            "repo": "crontab",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "phpinfo",
-          "description": "Outputs information about PHP's configuration in laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-10-12T10:01:50Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "phpinfo",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "composer-viewer",
-          "description": "A web interface of composer packages",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-12-06T08:18:07Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "composer-viewer",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "multi-language",
-          "description": "laravel-admin Multi Language",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Blade",
-            "last_commit": "2022-10-19T14:23:10Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "multi-language",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lock-screen",
-          "description": "Add a lock screen page to laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-11-14T15:49:50Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "lock-screen",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sms-register",
-          "description": "laravel admin sms register",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-02-29T14:59:34Z",
-            "owner": "Hanson",
-            "repo": "laravel-admin-register",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "messages",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-11-18T12:20:15Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "messages",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "admin-config",
-          "description": "Manage your database configuration as profiles",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-10-09T08:02:09Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "admin-config",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nocaptcha",
-          "description": "nocaptcha implements for laravel-admin when login",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-09-09T06:44:57Z",
-            "owner": "xiaohuilam",
-            "repo": "laravel-admin-nocaptcha",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "file-browser",
-          "description": "A Simple File Browser Extension For Laravel-Admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-02-01T04:14:59Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "file-browser",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "auth-attempts",
-          "description": "Add captcha and login attempts for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-09-29T09:40:27Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "auth-attempts",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "translation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-11-22T19:33:25Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "translation",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "file-manager",
-          "description": "File manager for Cloud Storage",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-03-30T12:41:09Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "file-manager",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "grid-exporter",
-          "description": "export grid data for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-04-17T05:38:01Z",
-            "owner": "xiaomlove",
-            "repo": "grid-exporter",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "data-dictionary",
-          "description": "A simple Mysql data dictionary tool that can be used to view and export table structures",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-09-07T01:23:01Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "data-dictionary",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wechat",
-          "description": "Manager tool of WeChat Official Accounts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-12-27T01:34:28Z",
-            "owner": "sfcity2018",
-            "repo": "laravel-admin-ext-wechat",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "login-geetest",
-          "description": "geetest login captcha for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-03-27T13:22:05Z",
-            "owner": "xiaoxuan6",
-            "repo": "login-geetest",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "screenfull",
-          "description": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-07-23T09:07:26Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "screenfull",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "deploy",
-          "description": "Deploy extension for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-08-13T17:02:17Z",
-            "owner": "luischavez",
-            "repo": "laravel-admin-ext-deploy",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "payjs",
-          "description": "pay for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-10-28T13:12:57Z",
-            "owner": "dedemao",
-            "repo": "laravel-admin-payjs",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Tool"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "chartjs",
-          "description": "Use Chartjs in laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-01-23T02:16:41Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "chartjs",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "watermark",
-          "description": "Add text watermark with canvas",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-02-25T08:28:28Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "watermark",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "echarts",
-          "description": "Use Echarts in laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-06-27T10:43:42Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "echarts",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "View"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Field"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "json-editor",
-          "description": "JSON Editor for Laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-07-22T05:18:53Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "json-editor",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "php-editor",
-          "description": "PHP editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-09-23T16:13:33Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "php-editor",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "python-editor",
-          "description": "Python editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-09-23T16:14:45Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "python-editor",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "js-editor",
-          "description": "JavaScript editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-09-23T16:12:32Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "js-editor",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clike-editor",
-          "description": "C-lick language editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-09-12T05:16:52Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "clike-editor",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "css-editor",
-          "description": "CSS editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-09-23T16:11:29Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "css-editor",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Code Editor"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "UEditor",
-          "description": "A WYSIWYG editor by Baidu",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-03-15T06:07:04Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "UEditor",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wangEditorV3",
-          "description": "A lightweight WYSIWYG editor v3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-08T10:03:33Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "wangEditor",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "summernote",
-          "description": "Super Simple WYSIWYG editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-12-28T07:31:25Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "summernote",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ckeditor",
-          "description": "A battle-tested WYSIWYG HTML editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-09-28T06:17:40Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "ckeditor",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quill",
-          "description": "A modern WYSIWYG editor built for compatibility and extensibility",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2021-12-15T10:50:15Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "quill",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wangEditorV4",
-          "description": "A lightweight WYSIWYG editor v4",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-07-30T15:28:20Z",
-            "owner": "jonexyz",
-            "repo": "wang-editor-v4",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "simditor",
-          "description": "An Easy and Fast WYSIWYG Editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-11-20T05:28:09Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "simditor",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tinymce",
-          "description": "TinyMCE: The Most Advanced WYSIWYG HTML Editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-04-13T14:12:57Z",
-            "owner": "super-eggs",
-            "repo": "tinymce",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kindeditor",
-          "description": "KindEditor is a lightweight, web based WYSIWYG HTML editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-04-07T03:17:15Z",
-            "owner": "youyingxiang",
-            "repo": "kindeditor",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lodpod-editor",
-          "description": "Lodpod print template visual editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-07-24T07:08:51Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "lodpod-editor",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wangEditorV2",
-          "description": "A lightweight WYSIWYG editor v2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-12-20T10:39:57Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "wangEditor2",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CKEditor5",
-          "description": "Modern JavaScript rich text editor with a modular architecture",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2020-04-22T15:58:29Z",
-            "owner": "ghost-die",
-            "repo": "ckeditor",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neditor",
-          "description": "A modern WYSIWYG editor based on UEditor",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2019-07-04T04:34:30Z",
-            "owner": "ssiapp",
-            "repo": "laravel-admin-ext-neditor",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "WYSIWYG Editor"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "simplemde",
-          "description": "A simple, beautiful, and embeddable JavaScript Markdown editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-12-06T02:52:36Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "simplemde",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EditorMD",
-          "description": "The open source embeddable online markdown editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-11-03T07:23:02Z",
-            "owner": "ShermanTsang",
-            "repo": "laravel-admin-ext-editormd",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Markdown Editor"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "china-distpicker",
-          "description": "Distpicker extension for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-10-11T10:08:17Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "china-distpicker",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FieldInteraction",
-          "description": "Field Interaction in laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-01-03T11:16:49Z",
-            "owner": "zuweie",
-            "repo": "FieldInteraction",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "large-file-upload",
-          "description": "Upload big files for Laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-14T02:26:13Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "large-file-upload",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cropper",
-          "description": "A simple jQuery image cropping plugin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-12-26T19:53:05Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "cropper",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "latlong",
-          "description": "A latitude & longitude selector",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2021-12-07T02:05:04Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "latlong",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "select2",
-          "description": "Laravel-Admin select2",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2021-08-08T13:23:15Z",
-            "owner": "xiaohuilam",
-            "repo": "laravel-admin-select2",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "daterangepicker",
-          "description": "Integrates daterangepicker into laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-09-13T17:51:28Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "daterangepicker",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "leaflet",
-          "description": "OpenStreetMap for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2021-09-29T06:15:44Z",
-            "owner": "bavix",
-            "repo": "laravel-admin-leaflet",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "row-table",
-          "description": "laravel-admin row-table",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-06-08T12:20:29Z",
-            "owner": "ichynul",
-            "repo": "row-table",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "star-rating",
-          "description": "Star Rating extension for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-04-09T01:55:50Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "star-rating",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "qiniu",
-          "description": "Upload files using qiniu Storage",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-03-08T03:32:00Z",
-            "owner": "Hanson",
-            "repo": "laravel-admin-qiniu",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tencent-map",
-          "description": "Tencent Map with search",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-10-29T02:46:23Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "tencent-map",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tagsinput",
-          "description": "Integrates Bootstrap Tags Input into laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-11-26T11:55:40Z",
-            "owner": "namet117",
-            "repo": "laravel-admin-tagsinput",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "select-tree",
-          "description": "select plugin for Model-tree",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-04-15T03:53:45Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "select-tree",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typeahead",
-          "description": "A fast and fully-featured autocomplete library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-09-26T16:46:28Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "typeahead",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "select2-bootstrap-theme",
-          "description": "select2-bootstrap-theme stylesheet extension",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-06-16T17:06:31Z",
-            "owner": "xiaohuilam",
-            "repo": "laravel-admin-select2-bootstrap-theme",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "grid-lightbox",
-          "description": "Turn your grid into a lightbox & gallery",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2019-10-20T21:42:18Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "grid-lightbox",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "grid-sortable",
-          "description": "This extension can help you sort by dragging the rows of the data list",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-02-10T09:05:05Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "grid-sortable",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "media-player",
-          "description": "Play audio/videos in laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-03-19T03:41:40Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "media-player",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sparkline",
-          "description": "Generate sparkline charts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-09-25T17:13:51Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "sparkline",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "column-relation",
-          "description": "column-relation extension for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-01-05T07:59:05Z",
-            "owner": "zhaiduting",
-            "repo": "column-relation",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "timestamp-between-filter",
-          "description": "Timestamp Between Filter",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-03-28T05:50:57Z",
-            "owner": "wuwx",
-            "repo": "laravel-admin-timestamp-between",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "custom-actions-button",
-          "description": "Custom Actions Button",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2019-08-28T17:44:32Z",
-            "owner": "nim4n136",
-            "repo": "custom-actions-button",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Grid"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "material-ui",
-          "description": "Material-UI is a Material Design extension, using Bootstrap Material Design",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-08-17T08:00:36Z",
-            "owner": "laravel-admin-extensions",
-            "repo": "material-ui",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rainbow",
-          "description": "A skin for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-02-06T14:18:01Z",
-            "owner": "Hanson",
-            "repo": "rainbow",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "adminlte3",
-          "description": "AdminLTE3 extension for laravel-admin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-02-11T09:15:55Z",
-            "owner": "hipig",
-            "repo": "adminlte3",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "UI"
-    },
-    {
-      "description": "Develop Extensions: Getting Started Tutorial",
-      "items": [],
-      "title": "Articles and Tutorials"
-    },
-    {
-      "description": "Add yours to the list, make a PR!",
-      "items": [],
-      "title": "Others"
-    },
-    {
-      "description": "Sites Running with Laravel-admin:\nhttps://github.com/z-song/laravel-admin/issues/3043",
-      "items": [],
-      "title": "Sites"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:02:49.804Z",
+    "last_updated": "2026-08-19T12:35:53.973Z",
     "original_repository": "jxlwqq/awesome-laravel-admin",
+    "original_repository_id": 148424617,
     "original_repository_sha": "46fc3d520078de0a7713445cfd9e0220c7d1b929",
     "enhanced_repository": "enhansome/enhansome-laravel-admin",
     "enhanced_repository_description": null,
