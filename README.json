@@ -564,7 +564,7 @@
                 "last_commit": "2019-01-23T02:16:41Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "chartjs",
-                "stars": 102
+                "stars": 101
               }
             },
             {
@@ -730,7 +730,7 @@
                     "last_commit": "2021-04-08T10:03:33Z",
                     "owner": "laravel-admin-extensions",
                     "repo": "wangEditor",
-                    "stars": 59
+                    "stars": 58
                   }
                 },
                 {
@@ -1361,7 +1361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:04:53.341Z",
+    "last_updated": "2026-08-22T04:59:43.747Z",
     "original_repository": "jxlwqq/awesome-laravel-admin",
     "original_repository_id": 148424617,
     "original_repository_sha": "46fc3d520078de0a7713445cfd9e0220c7d1b929",

@@ -27,7 +27,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 ## Essentials
 
-* [Laravel-admin Repo](https://github.com/z-song/laravel-admin) ⭐ 11,145 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
+* [Laravel-admin Repo](https://github.com/z-song/laravel-admin) ⭐ 11,144 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
 * [Laravel-admin Website](http://laravel-admin.org)
 * [Laravel-admin Docs](http://laravel-admin.org/docs)
 * [Laravel-admin Demo](http://demo.laravel-admin.org)
@@ -75,7 +75,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 ### View
 
-* [chartjs](https://github.com/laravel-admin-extensions/chartjs) ⭐ 102 | 🐛 4 | 🌐 PHP | 📅 2019-01-23 - Use Chartjs in laravel-admin
+* [chartjs](https://github.com/laravel-admin-extensions/chartjs) ⭐ 101 | 🐛 4 | 🌐 PHP | 📅 2019-01-23 - Use Chartjs in laravel-admin
 * [watermark](https://github.com/laravel-admin-extensions/watermark) ⭐ 10 | 🐛 1 | 🌐 PHP | 📅 2021-02-25 - Add text watermark with canvas
 * [echarts](https://github.com/laravel-admin-extensions/echarts) ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2019-06-27 - Use Echarts in laravel-admin
 
@@ -97,7 +97,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 #### WYSIWYG Editor
 
 * [UEditor](https://github.com/laravel-admin-extensions/UEditor) ⭐ 62 | 🐛 10 | 🌐 PHP | 📅 2022-03-15 - A WYSIWYG editor by Baidu
-* [wangEditorV3](https://github.com/laravel-admin-extensions/wangEditor) ⭐ 59 | 🐛 17 | 🌐 JavaScript | 📅 2021-04-08 - A lightweight WYSIWYG editor v3
+* [wangEditorV3](https://github.com/laravel-admin-extensions/wangEditor) ⭐ 58 | 🐛 17 | 🌐 JavaScript | 📅 2021-04-08 - A lightweight WYSIWYG editor v3
 * [summernote](https://github.com/laravel-admin-extensions/summernote) ⭐ 37 | 🐛 11 | 🌐 PHP | 📅 2023-12-28 - Super Simple WYSIWYG editor
 * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) ⭐ 30 | 🐛 11 | 🌐 JavaScript | 📅 2020-09-28 - A battle-tested WYSIWYG HTML editor
 * [Quill](https://github.com/laravel-admin-extensions/quill) ⭐ 24 | 🐛 3 | 🌐 CSS | 📅 2021-12-15 - A modern WYSIWYG editor built for compatibility and extensibility
@@ -191,8 +191,8 @@ Add yours to the list, make a PR!
 
 Sites Running with Laravel-admin:
 
-<https://github.com/z-song/laravel-admin/issues/3043> ⭐ 11,145 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
+<https://github.com/z-song/laravel-admin/issues/3043> ⭐ 11,144 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
