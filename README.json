@@ -605,6 +605,28 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "data-table",
+              "description": "Add advanced interaction controls to your HTML tables the free & easy way",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178422581,
+                "language": "PHP",
+                "last_commit": "2021-08-06T01:29:54Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "data-table",
+                "stars": 32
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Widget"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -1361,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:11:52.080Z",
+    "last_updated": "2026-08-24T14:30:01.896Z",
     "original_repository": "jxlwqq/awesome-laravel-admin",
     "original_repository_id": 148424617,
     "original_repository_sha": "46fc3d520078de0a7713445cfd9e0220c7d1b929",
