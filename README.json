@@ -32,7 +32,7 @@
                 "last_commit": "2022-04-10T22:10:41Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "helpers",
-                "stars": 136
+                "stars": 135
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2023-07-14T07:17:44Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "media-manager",
-                "stars": 135
+                "stars": 134
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2022-02-20T12:48:50Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "log-viewer",
-                "stars": 130
+                "stars": 129
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2021-10-11T09:17:56Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "scheduling",
-                "stars": 93
+                "stars": 92
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2020-11-07T01:40:07Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "backup",
-                "stars": 74
+                "stars": 73
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2022-01-25T08:58:02Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "reporter",
-                "stars": 59
+                "stars": 58
               }
             },
             {
@@ -182,22 +182,7 @@
                 "last_commit": "2021-05-05T02:52:55Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "api-tester",
-                "stars": 55
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "env-manager",
-              "description": "Env Manager for Laravel-admin",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 154815586,
-                "language": "PHP",
-                "last_commit": "2018-10-26T13:56:30Z",
-                "owner": "laravel-admin-extensions",
-                "repo": "env-manager",
-                "stars": 36
+                "stars": 54
               }
             },
             {
@@ -217,6 +202,21 @@
             },
             {
               "node_type": "item",
+              "title": "env-manager",
+              "description": "Env Manager for Laravel-admin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154815586,
+                "language": "PHP",
+                "last_commit": "2018-10-26T13:56:30Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "env-manager",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
               "title": "id-validator",
               "description": "Chinese Mainland Personal ID Card Validation",
               "children": [],
@@ -227,7 +227,7 @@
                 "last_commit": "2019-12-11T03:20:34Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "id-validator",
-                "stars": 34
+                "stars": 33
               }
             },
             {
@@ -337,21 +337,6 @@
             },
             {
               "node_type": "item",
-              "title": "messages",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 97901025,
-                "language": "PHP",
-                "last_commit": "2019-11-18T12:20:15Z",
-                "owner": "laravel-admin-extensions",
-                "repo": "messages",
-                "stars": 21
-              }
-            },
-            {
-              "node_type": "item",
               "title": "admin-config",
               "description": "Manage your database configuration as profiles",
               "children": [],
@@ -363,6 +348,21 @@
                 "owner": "laravel-admin-extensions",
                 "repo": "admin-config",
                 "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "messages",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97901025,
+                "language": "PHP",
+                "last_commit": "2019-11-18T12:20:15Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "messages",
+                "stars": 20
               }
             },
             {
@@ -412,21 +412,6 @@
             },
             {
               "node_type": "item",
-              "title": "translation",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 98843346,
-                "language": "PHP",
-                "last_commit": "2019-11-22T19:33:25Z",
-                "owner": "laravel-admin-extensions",
-                "repo": "translation",
-                "stars": 12
-              }
-            },
-            {
-              "node_type": "item",
               "title": "file-manager",
               "description": "File manager for Cloud Storage",
               "children": [],
@@ -437,6 +422,21 @@
                 "last_commit": "2019-03-30T12:41:09Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "file-manager",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "translation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98843346,
+                "language": "PHP",
+                "last_commit": "2019-11-22T19:33:25Z",
+                "owner": "laravel-admin-extensions",
+                "repo": "translation",
                 "stars": 11
               }
             },
@@ -564,7 +564,7 @@
                 "last_commit": "2019-01-23T02:16:41Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "chartjs",
-                "stars": 101
+                "stars": 100
               }
             },
             {
@@ -715,7 +715,7 @@
                     "last_commit": "2022-03-15T06:07:04Z",
                     "owner": "laravel-admin-extensions",
                     "repo": "UEditor",
-                    "stars": 62
+                    "stars": 61
                   }
                 },
                 {
@@ -745,7 +745,7 @@
                     "last_commit": "2023-12-28T07:31:25Z",
                     "owner": "laravel-admin-extensions",
                     "repo": "summernote",
-                    "stars": 37
+                    "stars": 36
                   }
                 },
                 {
@@ -865,7 +865,7 @@
                     "last_commit": "2018-12-20T10:39:57Z",
                     "owner": "laravel-admin-extensions",
                     "repo": "wangEditor2",
-                    "stars": 9
+                    "stars": 8
                   }
                 },
                 {
@@ -954,7 +954,7 @@
                     "last_commit": "2021-10-11T10:08:17Z",
                     "owner": "laravel-admin-extensions",
                     "repo": "china-distpicker",
-                    "stars": 133
+                    "stars": 132
                   }
                 },
                 {
@@ -984,7 +984,7 @@
                     "last_commit": "2022-09-14T02:26:13Z",
                     "owner": "laravel-admin-extensions",
                     "repo": "large-file-upload",
-                    "stars": 77
+                    "stars": 76
                   }
                 },
                 {
@@ -999,7 +999,7 @@
                     "last_commit": "2020-12-26T19:53:05Z",
                     "owner": "laravel-admin-extensions",
                     "repo": "cropper",
-                    "stars": 72
+                    "stars": 71
                   }
                 },
                 {
@@ -1014,7 +1014,7 @@
                     "last_commit": "2021-12-07T02:05:04Z",
                     "owner": "laravel-admin-extensions",
                     "repo": "latlong",
-                    "stars": 70
+                    "stars": 69
                   }
                 },
                 {
@@ -1044,7 +1044,7 @@
                     "last_commit": "2018-09-13T17:51:28Z",
                     "owner": "laravel-admin-extensions",
                     "repo": "daterangepicker",
-                    "stars": 33
+                    "stars": 32
                   }
                 },
                 {
@@ -1079,21 +1079,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "star-rating",
-                  "description": "Star Rating extension for laravel-admin",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 148460623,
-                    "language": "JavaScript",
-                    "last_commit": "2019-04-09T01:55:50Z",
-                    "owner": "laravel-admin-extensions",
-                    "repo": "star-rating",
-                    "stars": 21
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "qiniu",
                   "description": "Upload files using qiniu Storage",
                   "children": [],
@@ -1109,6 +1094,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "star-rating",
+                  "description": "Star Rating extension for laravel-admin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 148460623,
+                    "language": "JavaScript",
+                    "last_commit": "2019-04-09T01:55:50Z",
+                    "owner": "laravel-admin-extensions",
+                    "repo": "star-rating",
+                    "stars": 20
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "tencent-map",
                   "description": "Tencent Map with search",
                   "children": [],
@@ -1119,7 +1119,7 @@
                     "last_commit": "2020-10-29T02:46:23Z",
                     "owner": "laravel-admin-extensions",
                     "repo": "tencent-map",
-                    "stars": 15
+                    "stars": 14
                   }
                 },
                 {
@@ -1164,7 +1164,7 @@
                     "last_commit": "2018-09-26T16:46:28Z",
                     "owner": "laravel-admin-extensions",
                     "repo": "typeahead",
-                    "stars": 5
+                    "stars": 4
                   }
                 },
                 {
@@ -1206,7 +1206,7 @@
                 "last_commit": "2019-10-20T21:42:18Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "grid-lightbox",
-                "stars": 57
+                "stars": 56
               }
             },
             {
@@ -1236,7 +1236,7 @@
                 "last_commit": "2020-03-19T03:41:40Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "media-player",
-                "stars": 31
+                "stars": 30
               }
             },
             {
@@ -1251,7 +1251,7 @@
                 "last_commit": "2018-09-25T17:13:51Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "sparkline",
-                "stars": 16
+                "stars": 15
               }
             },
             {
@@ -1318,7 +1318,7 @@
                 "last_commit": "2020-08-17T08:00:36Z",
                 "owner": "laravel-admin-extensions",
                 "repo": "material-ui",
-                "stars": 96
+                "stars": 95
               }
             },
             {
@@ -1361,7 +1361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:02:07.512Z",
+    "last_updated": "2026-08-24T05:11:52.080Z",
     "original_repository": "jxlwqq/awesome-laravel-admin",
     "original_repository_id": 148424617,
     "original_repository_sha": "46fc3d520078de0a7713445cfd9e0220c7d1b929",
