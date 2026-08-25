@@ -847,21 +847,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "kindeditor",
-                  "description": "KindEditor is a lightweight, web based WYSIWYG HTML editor",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 187587321,
-                    "language": "PHP",
-                    "last_commit": "2020-04-07T03:17:15Z",
-                    "owner": "youyingxiang",
-                    "repo": "kindeditor",
-                    "stars": 11
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Lodpod-editor",
                   "description": "Lodpod print template visual editor",
                   "children": [],
@@ -872,6 +857,21 @@
                     "last_commit": "2019-07-24T07:08:51Z",
                     "owner": "laravel-admin-extensions",
                     "repo": "lodpod-editor",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "kindeditor",
+                  "description": "KindEditor is a lightweight, web based WYSIWYG HTML editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 187587321,
+                    "language": "PHP",
+                    "last_commit": "2020-04-07T03:17:15Z",
+                    "owner": "youyingxiang",
+                    "repo": "kindeditor",
                     "stars": 10
                   }
                 },
@@ -1383,7 +1383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:30:01.896Z",
+    "last_updated": "2026-08-25T05:05:21.837Z",
     "original_repository": "jxlwqq/awesome-laravel-admin",
     "original_repository_id": 148424617,
     "original_repository_sha": "46fc3d520078de0a7713445cfd9e0220c7d1b929",

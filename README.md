@@ -27,7 +27,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 ## Essentials
 
-* [Laravel-admin Repo](https://github.com/z-song/laravel-admin) ⭐ 11,143 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
+* [Laravel-admin Repo](https://github.com/z-song/laravel-admin) ⭐ 11,142 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
 * [Laravel-admin Website](http://laravel-admin.org)
 * [Laravel-admin Docs](http://laravel-admin.org/docs)
 * [Laravel-admin Demo](http://demo.laravel-admin.org)
@@ -104,8 +104,8 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [wangEditorV4](https://github.com/jonexyz/wang-editor-v4) ⭐ 16 | 🐛 1 | 🌐 JavaScript | 📅 2022-07-30 - A lightweight WYSIWYG editor v4
 * [simditor](https://github.com/laravel-admin-extensions/simditor) ⭐ 16 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-20 - An Easy and Fast WYSIWYG Editor
 * [tinymce](https://github.com/super-eggs/tinymce) ⭐ 13 | 🐛 4 | 🌐 JavaScript | 📅 2020-04-13 - TinyMCE: The Most Advanced WYSIWYG HTML Editor
-* [kindeditor](https://github.com/youyingxiang/kindeditor) ⭐ 11 | 🐛 5 | 🌐 PHP | 📅 2020-04-07 - KindEditor is a lightweight, web based WYSIWYG HTML editor
 * [Lodpod-editor](https://github.com/laravel-admin-extensions/lodpod-editor) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2019-07-24 - Lodpod print template visual editor
+* [kindeditor](https://github.com/youyingxiang/kindeditor) ⭐ 10 | 🐛 5 | 🌐 PHP | 📅 2020-04-07 - KindEditor is a lightweight, web based WYSIWYG HTML editor
 * [wangEditorV2](https://github.com/laravel-admin-extensions/wangEditor2) ⭐ 8 | 🐛 1 | 🌐 PHP | 📅 2018-12-20 - A lightweight WYSIWYG editor v2
 * [CKEditor5](https://github.com/Ghost-die/ckeditor) ⭐ 5 | 🐛 0 | 🌐 CSS | 📅 2020-04-22 - Modern JavaScript rich text editor with a modular architecture
 * [Neditor](https://github.com/ssiapp/laravel-admin-ext-neditor) ⚠️ Archived - A modern WYSIWYG editor based on UEditor
@@ -191,8 +191,8 @@ Add yours to the list, make a PR!
 
 Sites Running with Laravel-admin:
 
-<https://github.com/z-song/laravel-admin/issues/3043> ⭐ 11,143 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
+<https://github.com/z-song/laravel-admin/issues/3043> ⭐ 11,142 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
