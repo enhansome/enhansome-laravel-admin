@@ -1383,9 +1383,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:05:31.288Z",
-    "original_repository": "jxlwqq/awesome-laravel-admin",
-    "original_repository_id": 148424617,
+    "last_updated": "2026-08-27T11:52:15.773Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 148424617,
+      "language": null,
+      "last_commit": "2021-07-22T01:21:39Z",
+      "owner": "jxlwqq",
+      "repo": "awesome-laravel-admin",
+      "stars": 228
+    },
     "original_repository_sha": "46fc3d520078de0a7713445cfd9e0220c7d1b929",
     "enhanced_repository": "enhansome/enhansome-laravel-admin",
     "enhanced_repository_description": null,
