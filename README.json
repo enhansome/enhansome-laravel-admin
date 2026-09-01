@@ -1288,7 +1288,7 @@
                     "language": "PHP",
                     "license": null,
                     "last_commit": "2020-04-07T03:17:15Z",
-                    "open_issues": 5,
+                    "open_issues": 4,
                     "owner": "youyingxiang",
                     "repo": "kindeditor",
                     "stars": 10,
@@ -2033,7 +2033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:02:39.589Z",
+    "last_updated": "2026-09-01T09:32:22.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Laravel-admin resources",

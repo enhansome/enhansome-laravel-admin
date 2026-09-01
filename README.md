@@ -105,7 +105,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [simditor](https://github.com/laravel-admin-extensions/simditor) ⭐ 16 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-20 - An Easy and Fast WYSIWYG Editor
 * [tinymce](https://github.com/super-eggs/tinymce) ⭐ 13 | 🐛 4 | 🌐 JavaScript | 📅 2020-04-13 - TinyMCE: The Most Advanced WYSIWYG HTML Editor
 * [Lodpod-editor](https://github.com/laravel-admin-extensions/lodpod-editor) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2019-07-24 - Lodpod print template visual editor
-* [kindeditor](https://github.com/youyingxiang/kindeditor) ⭐ 10 | 🐛 5 | 🌐 PHP | 📅 2020-04-07 - KindEditor is a lightweight, web based WYSIWYG HTML editor
+* [kindeditor](https://github.com/youyingxiang/kindeditor) ⭐ 10 | 🐛 4 | 🌐 PHP | 📅 2020-04-07 - KindEditor is a lightweight, web based WYSIWYG HTML editor
 * [wangEditorV2](https://github.com/laravel-admin-extensions/wangEditor2) ⭐ 8 | 🐛 1 | 🌐 PHP | 📅 2018-12-20 - A lightweight WYSIWYG editor v2
 * [CKEditor5](https://github.com/Ghost-die/ckeditor) ⭐ 5 | 🐛 0 | 🌐 CSS | 📅 2020-04-22 - Modern JavaScript rich text editor with a modular architecture
 * [Neditor](https://github.com/ssiapp/laravel-admin-ext-neditor) ⚠️ Archived - A modern WYSIWYG editor based on UEditor
@@ -195,4 +195,4 @@ Sites Running with Laravel-admin:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
