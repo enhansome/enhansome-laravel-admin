@@ -46,7 +46,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [iframe-tabs](https://github.com/ichynul/iframe-tabs) ⚠️ Archived - laravel-admin iframe-tabs
 * [backup](https://github.com/laravel-admin-extensions/backup) ⭐ 73 | 🐛 11 | 🌐 PHP | 📅 2020-11-07 - An admin interface for managing backups
 * [auth-captcha](https://github.com/asundust/auth-captcha) ⭐ 60 | 🐛 1 | 🌐 PHP | 📅 2023-09-04 - Sliding captcha for laravel-admin auth
-* [reporter](https://github.com/laravel-admin-extensions/reporter) ⭐ 58 | 🐛 9 | 🌐 PHP | 📅 2022-01-25 - This tool stores the exception information into the database and provides a developer-friendly web interface to view the exception information.
+* [reporter](https://github.com/laravel-admin-extensions/reporter) ⭐ 59 | 🐛 9 | 🌐 PHP | 📅 2022-01-25 - This tool stores the exception information into the database and provides a developer-friendly web interface to view the exception information.
 * [api-tester](https://github.com/laravel-admin-extensions/api-tester) ⭐ 54 | 🐛 9 | 🌐 Blade | 📅 2021-05-05 - API tester for laravel-admin
 * [login-captcha](https://github.com/xiaoxuan6/login-captcha) ⭐ 36 | 🐛 1 | 🌐 PHP | 📅 2021-05-10 - laravel-admin login-captcha
 * [env-manager](https://github.com/laravel-admin-extensions/env-manager) ⭐ 35 | 🐛 3 | 🌐 PHP | 📅 2018-10-26 - Env Manager for Laravel-admin
@@ -195,4 +195,4 @@ Sites Running with Laravel-admin:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

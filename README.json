@@ -263,7 +263,7 @@
                 "open_issues": 9,
                 "owner": "laravel-admin-extensions",
                 "repo": "reporter",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "exception",
                   "laravel",
@@ -2033,7 +2033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T09:26:15.379Z",
+    "last_updated": "2026-09-25T09:43:52.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Laravel-admin resources",
