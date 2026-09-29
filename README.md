@@ -96,7 +96,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 #### WYSIWYG Editor
 
-* [UEditor](https://github.com/laravel-admin-extensions/UEditor) ⭐ 61 | 🐛 10 | 🌐 PHP | 📅 2022-03-15 - A WYSIWYG editor by Baidu
+* [UEditor](https://github.com/laravel-admin-extensions/UEditor) ⭐ 60 | 🐛 10 | 🌐 PHP | 📅 2022-03-15 - A WYSIWYG editor by Baidu
 * [wangEditorV3](https://github.com/laravel-admin-extensions/wangEditor) ⭐ 58 | 🐛 17 | 🌐 JavaScript | 📅 2021-04-08 - A lightweight WYSIWYG editor v3
 * [summernote](https://github.com/laravel-admin-extensions/summernote) ⭐ 36 | 🐛 11 | 🌐 PHP | 📅 2023-12-28 - Super Simple WYSIWYG editor
 * [ckeditor](https://github.com/laravel-admin-extensions/ckeditor) ⭐ 30 | 🐛 11 | 🌐 JavaScript | 📅 2020-09-28 - A battle-tested WYSIWYG HTML editor
@@ -195,4 +195,4 @@ Sites Running with Laravel-admin:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

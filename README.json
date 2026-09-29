@@ -1086,7 +1086,7 @@
                     "open_issues": 10,
                     "owner": "laravel-admin-extensions",
                     "repo": "UEditor",
-                    "stars": 61,
+                    "stars": 60,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:49:51.388Z"
@@ -2033,7 +2033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:08:26.303Z",
+    "last_updated": "2026-09-29T10:50:26.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Laravel-admin resources",
