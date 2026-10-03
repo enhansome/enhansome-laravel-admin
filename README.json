@@ -63,7 +63,7 @@
                 "open_issues": 21,
                 "owner": "laravel-admin-extensions",
                 "repo": "media-manager",
-                "stars": 134,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:49:51.388Z"
@@ -2033,7 +2033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:53:42.891Z",
+    "last_updated": "2026-10-03T09:59:01.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Laravel-admin resources",
