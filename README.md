@@ -117,7 +117,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 #### Others
 
-* [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) ⭐ 132 | 🐛 17 | 🌐 PHP | 📅 2021-10-11 - Distpicker extension for laravel-admin
+* [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) ⭐ 131 | 🐛 17 | 🌐 PHP | 📅 2021-10-11 - Distpicker extension for laravel-admin
 * [FieldInteraction](https://github.com/zuweie/FieldInteraction) ⭐ 106 | 🐛 1 | 🌐 PHP | 📅 2020-01-03 - Field Interaction in laravel-admin
 * [large-file-upload](https://github.com/laravel-admin-extensions/large-file-upload) ⭐ 76 | 🐛 14 | 🌐 JavaScript | 📅 2022-09-14 - Upload big files for Laravel-admin
 * [cropper](https://github.com/laravel-admin-extensions/cropper) ⭐ 71 | 🐛 13 | 🌐 PHP | 📅 2020-12-26 - A simple jQuery image cropping plugin
@@ -195,4 +195,4 @@ Sites Running with Laravel-admin:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
