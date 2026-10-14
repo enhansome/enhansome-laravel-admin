@@ -1436,7 +1436,7 @@
                     "open_issues": 17,
                     "owner": "laravel-admin-extensions",
                     "repo": "china-distpicker",
-                    "stars": 131,
+                    "stars": 132,
                     "topics": [
                       "distpicker",
                       "laravel",
@@ -2033,7 +2033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:02:50.518Z",
+    "last_updated": "2026-10-14T09:39:14.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Laravel-admin resources",
