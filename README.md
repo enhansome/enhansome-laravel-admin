@@ -27,7 +27,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 ## Essentials
 
-* [Laravel-admin Repo](https://github.com/z-song/laravel-admin) ⭐ 11,128 | 🐛 263 | 🌐 PHP | 📅 2026-05-02
+* [Laravel-admin Repo](https://github.com/z-song/laravel-admin) ⭐ 11,127 | 🐛 261 | 🌐 PHP | 📅 2026-05-02
 * [Laravel-admin Website](http://laravel-admin.org)
 * [Laravel-admin Docs](http://laravel-admin.org/docs)
 * [Laravel-admin Demo](http://demo.laravel-admin.org)
@@ -39,7 +39,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [wechat](https://github.com/Hanson/laravel-admin-wechat) ⭐ 241 | 🐛 10 | 🌐 PHP | 📅 2022-02-10 - Wechat Manager with EasyWeChat
 * [helpers](https://github.com/laravel-admin-extensions/helpers) ⭐ 135 | 🐛 11 | 🌐 PHP | 📅 2022-04-10 - Several tools to help you in development, providing `scaffolding`, `database command line`, `artisan command line` and `Route list` four tools
 * [media-manager](https://github.com/laravel-admin-extensions/media-manager) ⭐ 133 | 🐛 21 | 🌐 Blade | 📅 2023-07-14 - Provides a web interface to manage local files
-* [log-viewer](https://github.com/laravel-admin-extensions/log-viewer) ⭐ 128 | 🐛 11 | 🌐 PHP | 📅 2022-02-20 - Log viewer for laravel
+* [log-viewer](https://github.com/laravel-admin-extensions/log-viewer) ⭐ 127 | 🐛 11 | 🌐 PHP | 📅 2022-02-20 - Log viewer for laravel
 * [redis-manager](https://github.com/laravel-admin-extensions/redis-manager) ⭐ 103 | 🐛 16 | 🌐 HTML | 📅 2021-04-12 Redis manager for laravel-admin
 * [config](https://github.com/laravel-admin-extensions/config) ⭐ 97 | 🐛 10 | 🌐 PHP | 📅 2021-06-16 - Config manager for laravel-admin
 * [scheduling](https://github.com/laravel-admin-extensions/scheduling) ⭐ 92 | 🐛 10 | 🌐 PHP | 📅 2021-10-11 - Scheduling task manager for laravel-admin
@@ -118,7 +118,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 #### Others
 
 * [china-distpicker](https://github.com/laravel-admin-extensions/china-distpicker) ⭐ 132 | 🐛 17 | 🌐 PHP | 📅 2021-10-11 - Distpicker extension for laravel-admin
-* [FieldInteraction](https://github.com/zuweie/FieldInteraction) ⭐ 106 | 🐛 1 | 🌐 PHP | 📅 2020-01-03 - Field Interaction in laravel-admin
+* [FieldInteraction](https://github.com/zuweie/FieldInteraction) ⭐ 105 | 🐛 1 | 🌐 PHP | 📅 2020-01-03 - Field Interaction in laravel-admin
 * [large-file-upload](https://github.com/laravel-admin-extensions/large-file-upload) ⭐ 76 | 🐛 14 | 🌐 JavaScript | 📅 2022-09-14 - Upload big files for Laravel-admin
 * [cropper](https://github.com/laravel-admin-extensions/cropper) ⭐ 71 | 🐛 13 | 🌐 PHP | 📅 2020-12-26 - A simple jQuery image cropping plugin
 * [latlong](https://github.com/laravel-admin-extensions/latlong) ⭐ 69 | 🐛 19 | 🌐 PHP | 📅 2021-12-07 - A latitude & longitude selector
@@ -191,8 +191,8 @@ Add yours to the list, make a PR!
 
 Sites Running with Laravel-admin:
 
-<https://github.com/z-song/laravel-admin/issues/3043> ⭐ 11,128 | 🐛 263 | 🌐 PHP | 📅 2026-05-02
+<https://github.com/z-song/laravel-admin/issues/3043> ⭐ 11,127 | 🐛 261 | 🌐 PHP | 📅 2026-05-02
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
