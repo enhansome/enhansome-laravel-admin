@@ -27,7 +27,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 
 ## Essentials
 
-* [Laravel-admin Repo](https://github.com/z-song/laravel-admin) ⭐ 11,128 | 🐛 261 | 🌐 PHP | 📅 2026-05-02
+* [Laravel-admin Repo](https://github.com/z-song/laravel-admin) ⭐ 11,129 | 🐛 261 | 🌐 PHP | 📅 2026-05-02
 * [Laravel-admin Website](http://laravel-admin.org)
 * [Laravel-admin Docs](http://laravel-admin.org/docs)
 * [Laravel-admin Demo](http://demo.laravel-admin.org)
@@ -137,7 +137,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 ### Grid
 
 * [grid-lightbox](https://github.com/laravel-admin-extensions/grid-lightbox) ⭐ 56 | 🐛 8 | 🌐 CSS | 📅 2019-10-20 - Turn your grid into a lightbox & gallery
-* [grid-sortable](https://github.com/laravel-admin-extensions/grid-sortable) ⭐ 42 | 🐛 10 | 🌐 PHP | 📅 2023-02-10 - This extension can help you sort by dragging the rows of the data list
+* [grid-sortable](https://github.com/laravel-admin-extensions/grid-sortable) ⭐ 42 | 🐛 7 | 🌐 PHP | 📅 2023-02-10 - This extension can help you sort by dragging the rows of the data list
 * [media-player](https://github.com/laravel-admin-extensions/media-player) ⭐ 30 | 🐛 8 | 🌐 JavaScript | 📅 2020-03-19 - Play audio/videos in laravel-admin
 * [sparkline](https://github.com/laravel-admin-extensions/sparkline) ⭐ 15 | 🐛 0 | 🌐 PHP | 📅 2018-09-25 - Generate sparkline charts
 * [column-relation](https://github.com/zhaiduting/column-relation) ⭐ 12 | 🐛 19 | 🌐 PHP | 📅 2023-01-05 - column-relation extension for laravel-admin
@@ -191,8 +191,8 @@ Add yours to the list, make a PR!
 
 Sites Running with Laravel-admin:
 
-<https://github.com/z-song/laravel-admin/issues/3043> ⭐ 11,128 | 🐛 261 | 🌐 PHP | 📅 2026-05-02
+<https://github.com/z-song/laravel-admin/issues/3043> ⭐ 11,129 | 🐛 261 | 🌐 PHP | 📅 2026-05-02
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
