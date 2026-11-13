@@ -50,9 +50,9 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [api-tester](https://github.com/laravel-admin-extensions/api-tester) ⭐ 54 | 🐛 9 | 🌐 Blade | 📅 2021-05-05 - API tester for laravel-admin
 * [login-captcha](https://github.com/xiaoxuan6/login-captcha) ⭐ 36 | 🐛 1 | 🌐 PHP | 📅 2021-05-10 - laravel-admin login-captcha
 * [env-manager](https://github.com/laravel-admin-extensions/env-manager) ⭐ 35 | 🐛 3 | 🌐 PHP | 📅 2018-10-26 - Env Manager for Laravel-admin
-* [id-validator](https://github.com/laravel-admin-extensions/id-validator) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2019-12-11 - Chinese Mainland Personal ID Card Validation
 * [alioss-form](https://github.com/airan587/alioss-form) ⭐ 33 | 🐛 9 | 🌐 JavaScript | 📅 2019-04-01 - alioss-upload extension for laravel-admin
 * [crontab](https://github.com/ArrowJustDoIt/crontab) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2020-10-20 - Crontab extension for laravel-admin
+* [id-validator](https://github.com/laravel-admin-extensions/id-validator) ⭐ 32 | 🐛 0 | 🌐 PHP | 📅 2019-12-11 - Chinese Mainland Personal ID Card Validation
 * [phpinfo](https://github.com/laravel-admin-extensions/phpinfo) ⭐ 28 | 🐛 3 | 🌐 PHP | 📅 2018-10-12 - Outputs information about PHP's configuration in laravel-admin
 * [composer-viewer](https://github.com/laravel-admin-extensions/composer-viewer) ⭐ 27 | 🐛 2 | 🌐 PHP | 📅 2021-12-06 - A web interface of composer packages
 * [multi-language](https://github.com/laravel-admin-extensions/multi-language) ⭐ 25 | 🐛 4 | 🌐 Blade | 📅 2022-10-19 - laravel-admin Multi Language
@@ -195,4 +195,4 @@ Sites Running with Laravel-admin:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

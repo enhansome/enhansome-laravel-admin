@@ -348,27 +348,6 @@
             },
             {
               "node_type": "item",
-              "title": "id-validator",
-              "description": "Chinese Mainland Personal ID Card Validation",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "验证中国大陆居民身份证、港澳居民居住证以及台湾地区居民居住证",
-                "homepage": null,
-                "id": 156237877,
-                "language": "PHP",
-                "license": "MIT",
-                "last_commit": "2019-12-11T03:20:34Z",
-                "open_issues": 0,
-                "owner": "laravel-admin-extensions",
-                "repo": "id-validator",
-                "stars": 33,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:49:51.388Z"
-            },
-            {
-              "node_type": "item",
               "title": "alioss-form",
               "description": "alioss-upload extension for laravel-admin",
               "children": [],
@@ -405,6 +384,27 @@
                 "owner": "ArrowJustDoIt",
                 "repo": "crontab",
                 "stars": 33,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:49:51.388Z"
+            },
+            {
+              "node_type": "item",
+              "title": "id-validator",
+              "description": "Chinese Mainland Personal ID Card Validation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "验证中国大陆居民身份证、港澳居民居住证以及台湾地区居民居住证",
+                "homepage": null,
+                "id": 156237877,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2019-12-11T03:20:34Z",
+                "open_issues": 0,
+                "owner": "laravel-admin-extensions",
+                "repo": "id-validator",
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:49:51.388Z"
@@ -2033,7 +2033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:05:20.124Z",
+    "last_updated": "2026-11-13T12:29:17.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Laravel-admin resources",
