@@ -1915,7 +1915,7 @@
                 "id": 241920180,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2020-03-28T05:50:57Z",
+                "last_commit": "2026-11-18T08:44:06Z",
                 "open_issues": 1,
                 "owner": "wuwx",
                 "repo": "laravel-admin-timestamp-between",
@@ -2033,7 +2033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T13:43:55.019Z",
+    "last_updated": "2026-11-18T13:19:00.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Laravel-admin resources",

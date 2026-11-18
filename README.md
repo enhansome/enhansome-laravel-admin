@@ -141,7 +141,7 @@ If you created or found something that make Laravel-admin more awesome, please s
 * [media-player](https://github.com/laravel-admin-extensions/media-player) ⭐ 30 | 🐛 8 | 🌐 JavaScript | 📅 2020-03-19 - Play audio/videos in laravel-admin
 * [sparkline](https://github.com/laravel-admin-extensions/sparkline) ⭐ 15 | 🐛 0 | 🌐 PHP | 📅 2018-09-25 - Generate sparkline charts
 * [column-relation](https://github.com/zhaiduting/column-relation) ⭐ 12 | 🐛 19 | 🌐 PHP | 📅 2023-01-05 - column-relation extension for laravel-admin
-* [timestamp-between-filter](https://github.com/wuwx/laravel-admin-timestamp-between) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2020-03-28 - Timestamp Between Filter
+* [timestamp-between-filter](https://github.com/wuwx/laravel-admin-timestamp-between) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2026-11-18 - Timestamp Between Filter
 * [custom-actions-button](https://github.com/nim4n136/custom-actions-button) ⚠️ Archived - Custom Actions Button
 
 ### UI
@@ -195,4 +195,4 @@ Sites Running with Laravel-admin:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
