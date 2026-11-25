@@ -187,7 +187,7 @@
                 "open_issues": 10,
                 "owner": "ichynul",
                 "repo": "iframe-tabs",
-                "stars": 85,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:49:51.388Z"
@@ -2033,7 +2033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T15:07:20.147Z",
+    "last_updated": "2026-11-25T14:47:26.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Laravel-admin resources",
